@@ -1,0 +1,26 @@
+/*body {
+    
+}*/
+h1{
+font-size: large;
+background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(79, 47, 47)
+   /* margin-top: "3em";*/
+
+}
+
+body {
+    background-color: floralwhite;
+
+    border-image-outset: 11cm;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: darkred;
+}
+h1{
+    padding-top: 10px;
+}
